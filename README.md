@@ -25,3 +25,4 @@ Sistema de controle financeiro desenvolvido por Thayamy.
 ## Desenvolvido por
 
 Thayamy 💖
+<img width="1920" height="1080" alt="Captura de Tela (65)" src="https://github.com/user-attachments/assets/8804db33-98b9-478c-8ab3-ceb9619f0eb2" />
